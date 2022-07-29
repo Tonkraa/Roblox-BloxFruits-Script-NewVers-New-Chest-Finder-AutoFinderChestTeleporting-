@@ -2,7 +2,7 @@
 -- Extra script
 -- Free script
 -- Teleport chest
--- New version New.0.0.1bf
+-- New version (0.1.5.0)
 
 
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wall%20v3')))()
@@ -30,7 +30,7 @@ b:Label("Auto chest",{
 
 
 b:Button("Start",function()
-    loadstring(game:HttpGet(("https://pastebin.com/raw/W0QtP8CB")))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/W0QtP8CB"))()
 end)
 
 
